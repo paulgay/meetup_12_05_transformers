@@ -5,7 +5,7 @@ Ce github contient deux notebooks faisant partie du matériel qui sera présent�
 Il contient deux notebooks : 
 
 - Géneration de texte, tokenization et calcul d'embedding
-Ce notebook utilise la librairie Huggingface afin de tester les capacités de génération des transformeurs, ainsi que leur biais
+Ce notebook utilise la librairie Huggingface afin de tester les capacités de génération des transformeurs, ainsi que leur biais.
 
 - Classification de texte avec un (petit) transformeur. 
 Ce notebook s'inspire des tutoriels de tensorflow et fournit un code complet implémentant les équations du modèle d'attention. 
