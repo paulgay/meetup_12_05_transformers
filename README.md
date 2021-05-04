@@ -1,6 +1,6 @@
 # Introduction aux transformeurs
 
-Ce github contient deux notebooks faisant partie du matériel qui sera présenté au meetup de machine learning de Pau le 12 mai 2021. 
+Ce github fait partie du matériel qui sera présenté au meetup de machine learning de Pau le 12 mai 2021. 
 
 Il contient deux notebooks : 
 
