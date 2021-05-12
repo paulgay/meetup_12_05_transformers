@@ -9,3 +9,9 @@ Ce notebook utilise la librairie Huggingface afin de tester les capacités de g�
 
 - Classification de texte avec un (petit) transformeur. 
 Ce notebook s'inspire des tutoriels de tensorflow et fournit un code complet implémentant les équations du modèle d'attention. 
+
+## Dépendances 
+
+- Tensorflow 
+- Pytorch (for the camembert model, it seems you cannot import it from tensorflow) 
+- transformers (huggingface)
