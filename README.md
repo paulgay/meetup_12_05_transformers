@@ -13,5 +13,5 @@ Ce notebook s'inspire des tutoriels de tensorflow et fournit un code complet imp
 ## Dépendances 
 
 - Tensorflow 
-- Pytorch (for the camembert model, it seems you cannot import it from tensorflow) 
+- Pytorch (pour le modèle CamemBert, qui ne semble pas accessible depuis tensorflow.) 
 - transformers (huggingface)
